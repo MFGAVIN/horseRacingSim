@@ -1,0 +1,1 @@
+# Retrives horse.json files from /horseDB, sends it to main.py
